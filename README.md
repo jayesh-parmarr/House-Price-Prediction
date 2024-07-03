@@ -1,5 +1,4 @@
-# Prasunet_ML_01
-# House Price Prediction
+# Prasunet_ML_01 : House Price Prediction
 
 ![House Price Prediction](house_price_prediction.png)
 
