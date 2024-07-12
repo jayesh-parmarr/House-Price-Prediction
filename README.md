@@ -1,4 +1,4 @@
-House Price Prediction
+# House Price Prediction
 
 ![House Price Prediction](house_price_prediction.png)
 
